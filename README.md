@@ -1,7 +1,9 @@
-### Hi, I'm Fergus! 👋
+### Hi, I'm Fergus! <img align=right src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="230">
 
 Currently studying Computer Science at <em><b><a href="https://www.swansea.ac.uk/">Swansea University</a></em></b>.</br>
-I am an EPSRC funded <b><a href="people-first.best">CDT</a></b> student, working on human-centred AI problems.
+I'm an EPSRC funded <b><a href="people-first.best">CDT</a></b> student, working on human-centred AI problems.
+
+<a href="https://www.linkedin.com/public-profile/in/fergus-pick/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dadwada" height="20" width="20" /></a>
 <!--
 **fergus-pick/fergus-pick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
