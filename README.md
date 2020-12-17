@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi, I'm Fergus! 👋
 
+Currently studying Computer Science at <em><b><a href="https://www.swansea.ac.uk/">Swansea University</a></em></b>.</br>
+I am an EPSRC funded <b><a href="people-first.best">CDT</a></b> student, working on human-centred AI problems.
 <!--
 **fergus-pick/fergus-pick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
