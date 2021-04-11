@@ -2,7 +2,7 @@
 
 Currently studying Computer Science at <em><b><a href="https://www.swansea.ac.uk/">Swansea University</a></em></b>.</br>
 
-I'm an EPSRC funded <b><a href="people-first.best">CDT</a></b> student, working on human-centred AI problems.
+I'm an EPSRC funded <b><a href="https://www.swansea.ac.uk/science/epsrc-centre-for-doctoral-training/">CDT</a></b> student, working on human-centred AI problems.
 
 <a href="https://www.linkedin.com/public-profile/in/fergus-pick/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dadwada" height="20" width="20" /></a>
 <!--
